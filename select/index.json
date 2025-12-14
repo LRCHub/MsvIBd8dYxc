@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "彗星列車のベルが鳴る",
+  "base_artist": "After the Rain",
+  "createdAt": "2025-12-14T10:11:44.697873Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "彗星列車のベルが鳴る",
+      "artist": "After The Rain",
+      "has_synced": true,
+      "path": "select/01_彗星列車のベルが鳴る_After_The_Rain.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "彗星列車のベルが鳴る - Suiseiressha no Bell ga naru",
+      "artist": "After the Rain",
+      "has_synced": true,
+      "path": "select/02_彗星列車のベルが鳴る_-_Suiseiressha_no_Bell_ga_naru_After_the_Rain.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "彗星列車のベルが鳴る",
+      "artist": "After the Rain",
+      "has_synced": false,
+      "path": "select/pl_01_彗星列車のベルが鳴る_After_the_Rain.txt"
+    }
+  ]
+}
